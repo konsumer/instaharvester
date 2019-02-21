@@ -1,0 +1,13 @@
+{
+  "name": "instaharvester",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
