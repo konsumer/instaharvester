@@ -1,9 +1,9 @@
-const csv = info => {
-  const headers = Object.keys(info[0])
+const csv = (info, headers) => {
+  headers = headers || Object.keys(info[0])
   console.log(headers.join('\t'))
 
   info.forEach(r => {
-    console.log(Object.values(r).join('\t'))
+    console.log(headers.map(h => r[h]).join('\t'))
   })
 }
 

@@ -2,7 +2,7 @@
   "name": "instaharvester",
   "version": "0.0.0",
   "scripts": {
-    "test": "node test"
+    "test": "node test.js > test.csv"
   },
   "keywords": [],
   "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",

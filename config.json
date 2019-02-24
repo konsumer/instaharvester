@@ -1,0 +1,33 @@
+{
+  "influencers": [
+    "dominomag",
+    "ruemagazine"
+  ],
+  "rules": {
+    "preceding": [
+      "interiors by",
+      "designed by",
+      "design by",
+      "design firm",
+      "design studio",
+      "project by",
+      "via",
+      "interior by",
+      "space by",
+      "bedroom by",
+      "room by",
+      "interior designer at",
+      "designers behind",
+      "architecture by",
+      "architect",
+      "architecture firm",
+      "designer",
+      "interior design by"
+    ],
+    "username": [
+      "interior",
+      "design",
+      "studio"
+    ]
+  }
+}
