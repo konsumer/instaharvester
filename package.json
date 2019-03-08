@@ -8,6 +8,8 @@
   "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^1.12.2"
+    "json2csv": "^4.3.5",
+    "p-throttle": "^3.0.0",
+    "puppeteer": "^1.13.0"
   }
 }
